@@ -13,3 +13,5 @@ or
 5. Add configuration by JUnit (if needed)
 6. Click on Run button
 
+![2021-04-28_1-09-32](https://user-images.githubusercontent.com/48891202/116298616-7ac09b80-a7be-11eb-9ac4-a47c280f948f.png)
+
